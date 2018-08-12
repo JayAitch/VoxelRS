@@ -57,7 +57,6 @@ Build/*
 # Whitelist PakBlacklist-<BuildConfiguration>.txt files
 !Build/*/
 Build/*/**
-Content/StarterContent/**
 !Build/*/PakBlacklist*.txt
 
 # Don't ignore icon files in Build
@@ -71,6 +70,7 @@ Saved/*
 
 # Compiled source files for the engine to use
 Intermediate/*
+Content/StarterContent/**
 
 # Cache files for the editor to use
 DerivedDataCache/*
