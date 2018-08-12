@@ -57,6 +57,7 @@ Build/*
 # Whitelist PakBlacklist-<BuildConfiguration>.txt files
 !Build/*/
 Build/*/**
+Content/StarterContent/**
 !Build/*/PakBlacklist*.txt
 
 # Don't ignore icon files in Build
